@@ -9,6 +9,9 @@ anlam çevirileri. İçerik Türkçe, Markdown sayfaları halinde.
 - `ilk-14-ayet-anlam-cevirisi.md`: İlk 14 ayet yazıldı (Alak 1-5, Müddessir 1-7, Asr benzeri
   "çağlar arası geçiş" 1-2). Her ayetin sonunda parantez içinde yönetim kavramı etiketi var.
 - `BRANCHING.md`: Dal yönetimi kuralları.
+- `referans/zariyat-ilk-6-ayet-alti-hikaye.md`: Anlam çevirisi yönteminin referansı. Zâriyât 1-6 için
+  altı farklı tefsir okuması ve her birine bir hikâye. Yeni ayet grubuna başlamadan önce aynı
+  hazırlık bu klasörde yapılır.
 - GitHub ayarları tamamlandı: varsayılan dal `main`, `main` ve `development` korumalı,
   birleşen dallar otomatik silinir.
 
@@ -20,6 +23,11 @@ anlam çevirileri. İçerik Türkçe, Markdown sayfaları halinde.
 - Yeni sayfa için: `development`'tan `sayfa/<konu>` dalı aç → PR ile `development`'a → PR ile `main`'e.
 - `claude/ilk-14-ayet-anlam-xdza0j`: ilk oturumun çalışma dalı, içeriği `main` ile aynı,
   silinebilir (kullanıcı henüz onaylamadı).
+
+## Klasörler
+
+- Kök: anlam çevirisi sayfaları.
+- `referans/`: bir ayet grubunun farklı tefsir okumaları ve hikâyeleri; anlam çevirisine hazırlık.
 
 ## Yazım kuralları (mevcut sayfadan çıkarılan)
 

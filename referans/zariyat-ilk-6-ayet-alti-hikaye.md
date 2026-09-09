@@ -1,5 +1,7 @@
 # Zâriyât Suresi İlk 6 Ayet – Altı Yorum, Altı Hikâye
 
+> **Bu sayfa neden var?** Bu sitedeki anlam çevirileri tek bir tefsire bağlı kalmaz. Bir ayet grubuna başlamadan önce klasik ve modern müfessirlerin o ayetleri nasıl farklı okuduğuna bakılır; her okuma bir hikâyeyle somutlaştırılır; ancak ondan sonra serbest anlam çevirisi yazılır. Bu sayfa, o hazırlık aşamasının Zâriyât 1-6 için yapılmış örneğidir ve yöntemin referansıdır.
+
 Zâriyât (51) suresinin ilk altı ayeti, dört yemin ve iki hükümden oluşur:
 
 | Ayet | Arapça kök | Yaygın çeviri |
