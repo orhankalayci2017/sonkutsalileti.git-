@@ -1,0 +1,15 @@
+{
+  "name": "sonkutsalileti-panel",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Anlam çevirisi sayfasını tarayıcıdan düzenlemek için yönetici paneli",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "marked": "^18.0.0"
+  }
+}
